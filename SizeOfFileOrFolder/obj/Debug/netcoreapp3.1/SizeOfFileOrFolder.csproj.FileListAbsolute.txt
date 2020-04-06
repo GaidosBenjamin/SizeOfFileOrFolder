@@ -1,0 +1,13 @@
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.exe
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.deps.json
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.runtimeconfig.json
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.runtimeconfig.dev.json
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.dll
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\bin\Debug\netcoreapp3.1\SizeOfFileOrFolder.pdb
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.csprojAssemblyReference.cache
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.csproj.CoreCompileInputs.cache
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.AssemblyInfoInputs.cache
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.AssemblyInfo.cs
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.dll
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.pdb
+C:\Users\gaido\source\repos\SizeOfFileOrFolder\obj\Debug\netcoreapp3.1\SizeOfFileOrFolder.genruntimeconfig.cache
